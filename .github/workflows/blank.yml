@@ -19,5 +19,5 @@ jobs:
 
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
+          echo Add other actions to build, ${{ vars.USER_NAME }}
           echo test, and deploy your project.
