@@ -5,6 +5,6 @@ date
 
 update 25-may-2024
 
-23-June-2024 05 hh 32 mm PM
+23-June-2024 05 hours 32 minutes PM
 
-04-July-2024 10 hh 20 mm AM
+04-July-2024 10 hours 20 minutes AM
